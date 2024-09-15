@@ -24,7 +24,7 @@ simple output 1
 sample output 2
 
 
-2![wanted_poster (8)](https://github.com/user-attachments/assets/71582a22-5267-4782-811b-392651abfef4)
+![wanted_poster (8)](https://github.com/user-attachments/assets/71582a22-5267-4782-811b-392651abfef4)
 
 sample output 3
 
