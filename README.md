@@ -11,17 +11,27 @@ I used Python and the libraires Pillow, Random, os, and Flask
 I also used html to allow user uploads.
 
 
-Wanted poster generator_
+Wanted poster generator
+
+
 ![image](https://github.com/user-attachments/assets/359aa8b8-504e-4a2e-b4bb-c03a83f5fd82)
 
 simple output 1
+
+
 ![wanted_poster (9)](https://github.com/user-attachments/assets/dc4508d0-b1a4-4e2b-8c72-4a4326e93d08)
 
 sample output 2
+
+
 2![wanted_poster (8)](https://github.com/user-attachments/assets/71582a22-5267-4782-811b-392651abfef4)
 
 sample output 3
+
+
 ![wanted_poster (6)](https://github.com/user-attachments/assets/a6d0fd3e-8846-4f93-b8a4-0cc910beb714)
 
 sample output 4
+
+
 ![wanted_poster (7)](https://github.com/user-attachments/assets/bb72f1aa-480a-42e7-806c-a6108475092e)
